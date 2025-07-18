@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusewak-singh&label=Profile%20views&color=0e75b6&style=flat" alt="gurusewak-singh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurusewak-singh" alt="gurusewak-singh" /></a> </p>
-
 - 🔭 I’m currently working on [Sociogram](https://github.com/gurusewak-singh/Sociogram.git)
 
 - 🌱 I’m currently learning **Next.js and Nest.js**
