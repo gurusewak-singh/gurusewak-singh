@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&color=58A6FF¢er=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Katyayani+Mishra;Full+Stack+Developer;MERN+Stack+Specialist;Cloud+%26+AI+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boldonse&size=25&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Gurusewak;Full+stack+developer+%26+DSA+Enthusiast" alt="Typing SVG" /></a>
 
 ### Architecting high-performance, scalable web applications that transform complex problems into elegant, user-centric digital experiences.
 
