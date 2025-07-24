@@ -107,15 +107,15 @@
 <p align="center">
   <em>I'm always open to collaborating on exciting projects or discussing the future of technology. Feel free to reach out!</em>
   <br><br>
-  <a href="https://katyayani-portfolio.vercel.app/" target="_blank">
+  <a href="https://gurusewak-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
    
-  <a href="https://linkedin.com/in/katyayanim12" target="_blank">
+  <a href="https://linkedin.com/in/gurusewak122" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
    
-  <a href="mailto:mishrakatyayani391@gmail.com">
+  <a href="mailto:gurusewaksingh122@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
