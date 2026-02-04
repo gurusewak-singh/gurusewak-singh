@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boldonse&size=30&duration=2000&pause=500&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Gurusewak;Full+stack+developer+%26+DSA+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Boldonse&size=30&duration=2000&pause=500&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Gurusewak;AI/ML+Engineer+%26+DSA+Enthusiast" alt="Typing SVG" /></a>
 
 <!-- Profile View Counter - Premium Style -->
 <div align="center" style="margin: 20px 0;">
